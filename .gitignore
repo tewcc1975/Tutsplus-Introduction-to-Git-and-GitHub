@@ -1,0 +1,7 @@
+#Untracked folders
+node_modules
+
+#Untracked files
+*.un~
+*~
+Thumbs.db
